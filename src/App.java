@@ -1,3 +1,6 @@
+// Nome: Luca Barbosa Rodrigues
+// Matrícula: 1252211620889
+
 import java.util.Scanner;
 
 public class App {
